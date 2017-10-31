@@ -1,0 +1,91 @@
+/* Documento estilos css creado por Yesid Rojas*/
+
+html{background-color: #FFCC99;}
+	 .container{ 
+		 width: 98%; 
+		 height: auto; 
+		 padding-top: 2%;
+		 padding-left: 1%;
+	     padding-right: 1%;
+		 padding-bottom: 2%;
+	 }
+	 .container header .logo{ 
+		 width: 40%;
+	     height: auto; 
+		 text-align: left;
+	 }
+	 header{
+		 width: 100%;
+	 }
+	 .alineacion-horizontal{
+	 	background-color: green;
+	 	 color: #5499c7;
+	 	 border-radius: 0.5em;
+		 display: -ms-flexbox;
+         display: flex;
+         -ms-flex-wrap: wrap;
+         flex-wrap: wrap;
+	 }
+	 article{
+	 	border-radius: 5px;
+		background-color: #DDD;
+		box-shadow: 0 0 10px rgba(0,0,0,3);
+		padding: 40px;
+		margin-left: 30px;
+		margin-top: 20px;
+		width: 550px;
+		float: right;
+
+		position: relative;
+		display: inline-block;
+
+
+		margin-top: 10px;
+		margin-right: 10px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+	 }
+
+	 img{
+	 	margin-top: 10px;
+		margin-right: 10px;
+		margin-left: 10px;
+		margin-bottom: 10px;
+
+	 }
+
+
+	 }
+
+	 section article p{
+	 	position: absolute;
+	 	width: 200;
+
+
+	 }
+
+	 
+	 }
+	 .logo img{ width: 90%;
+	 height: auto;
+	 }
+	 .titulo-principal{
+		 width: 60%;
+	     height: auto;
+		 text-align: center;
+		 margin-top: 1px
+	 }
+     
+	 .titulo-principal h1{
+	     width: 90%;
+		 color: #FFFFFF;
+		 border: #ffffff solid 1px;
+		 padding: 20px 20px;
+	 }
+	 .header-color{ background-color: #669933; 
+	 }
+    .espacios{ margin-top: 30px;
+     }
+
+
+

@@ -1,0 +1,22 @@
+/* CSS Document */
+section{
+		background-color: #669933;
+	}
+	.caja1{
+		width: 20%;
+		height: auto;
+	}
+	.caja2{
+		width: 59%;
+		height: auto;
+		margin-left: 10px;
+		background-color: #ffffff;
+		border: solid 1px color #000000; 
+	}
+	.caja3{
+		width: 19%;
+		height: auto;
+		margin-left: 10px;
+		background-color: #ffffff;
+		border: solid 1px color #000000; 
+	}
